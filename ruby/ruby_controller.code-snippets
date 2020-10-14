@@ -1,0 +1,19 @@
+{
+  "ruby_controller": {
+    "prefix": "ruby_controller",
+    "body": [
+      "# frozen_string_literal: true",
+      "",
+      "class TestController < ApplicationController",
+      "  def index",
+      "",
+      "  end",
+      "",
+      "  def show",
+      "",
+      "  end",
+      "end"
+    ],
+    "description": "ruby_controller"
+  }
+}
