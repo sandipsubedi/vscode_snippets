@@ -6,7 +6,7 @@ Collections for Snippets/Templates for VSCode
 ├── LICENSE
 ├── README.md
 ├── js
-└── ruby
+└── rails
 ```
 
 #### Contributing Guidelines:

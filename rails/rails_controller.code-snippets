@@ -1,6 +1,6 @@
 {
-  "ruby_controller": {
-    "prefix": "ruby_controller",
+  "rails_controller": {
+    "prefix": "rails_controller",
     "body": [
       "# frozen_string_literal: true",
       "",
@@ -14,6 +14,6 @@
       "  end",
       "end"
     ],
-    "description": "ruby_controller"
+    "description": "rails_controller"
   }
 }

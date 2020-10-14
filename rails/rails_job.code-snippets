@@ -1,0 +1,18 @@
+{
+  "rails_job": {
+    "prefix": "rails_job",
+    "body": [
+      "# frozen_string_literal: true",
+      "",
+      "class TestJob < ApplicationJob",
+      "  queue_as :default",
+      " ",
+      "  def perform",
+      "",
+      "  end",
+      "end",
+      ""
+    ],
+    "description": "rails_job"
+  }
+}
