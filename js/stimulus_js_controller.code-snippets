@@ -1,0 +1,13 @@
+{
+  "stimulus_js_controller": {
+    "prefix": "stimulus_generator_controller",
+    "body": [
+      "import { Controller } from 'stimulus';",
+      "",
+      "export default class extends Controller {",
+      "",
+      "}"
+    ],
+    "description": "stimulus_js_controller"
+  }
+}
